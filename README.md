@@ -1,8 +1,3 @@
-Конечно, держи фирменный README.md в стиле AKUMA!
-Оформил под твой бренд — и японский киберпанк, и демонический вайб, и конкретика по установке/использованию. Всё строго в духе "Tokyo dark".
-
----
-
 # AKUMA\_NET\_SCAN - 悪魔のゼロデей・ネットワークハンтер
 
 *"When the neon fog descends, AKUMA hunts the living hosts among cyber-ghosts..."*
