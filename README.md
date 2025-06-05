@@ -62,7 +62,7 @@ sudo ./AKUMA_Net_Scan.sh 10.154.0.0/23
 
 # 2. 収穫 (Collect the Blood Bounty)
 
-* Открывай Grafana на сервере (`localhost:3000` по умолчанию).
+* Открывай Grafana на сервере (`localhost:3000` по умолчанию *admin:admin впервый вход нужно поменять пароль).
 * Фильтруй, ищи, бей только реальных врагов.
 * Все данные уже в SQLite — ничто не укроется.
 ![image](https://github.com/user-attachments/assets/5fe348b3-462c-49b7-93c8-c78f57d4ddc7)
